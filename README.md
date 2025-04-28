@@ -1,6 +1,6 @@
 # Sobre mi
 Programador y Técnico Superior en Programación. <br>
-FullStack Web Developer and programming Technician.  <br>
+Software Developer & Programming Technician.  <br>
 # 📊 Tecnologías más usadas:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Axel-lis&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 # 💻 Tech Stack:
