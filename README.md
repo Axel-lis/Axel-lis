@@ -76,4 +76,5 @@ I am a developer passionate about tech evolution. My current focus is on **Proce
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
+Si llegaste hasta acá leyendo todo mi stack, quiero agradecerte tu tiempo! 
+Siempre me gustó construir cosas y optimizar funcionamientos. Que la programación me haya hecho vivir de lo que tanto me gusta es un sueño hecho realidad para mi =) 
