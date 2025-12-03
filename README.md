@@ -6,19 +6,38 @@
 
 ### 🚀 Sobre mí / About Me
 
-**Español:**
-Soy un desarrollador de software que sigo con mucho entusiasmo la evolución tecnológica. 
+** Español **:
+Soy un desarrollador de software apasionado por construir soluciones que aporten valor real. Trabajo integrando tecnologías modernas, optimizando procesos y llevando sistemas a producción con un enfoque sólido en escalabilidad, seguridad y experiencia de usuario.
 
-Actualmente, estoy enfocado en la **Automatización de Procesos** y la **Inteligencia Artificial**.
-Estoy integrando flujos de trabajo inteligentes utilizando **n8n**, construyendo bases de datos vectoriales y creando agentes, bots y explorando los LLMs.
+En los últimos meses estuve desarrollando un sistema de Firma Electrónica para Argentina, abordando validaciones de identidad, seguridad documental, flujos de firmas y todo el stack necesario para garantizar trazabilidad y cumplimiento normativo.
 
-**English:**
-I am a developer passionate about tech evolution. My current focus is on **Process Automation** and **Artificial Intelligence**. I am integrating intelligent workflows using **n8n**, building vector databases, and creating advanced Chatbots and agents with and exploring the world of LLMs.
+Además, trabajo con APIs, servicios backend robustos, herramientas de automatización y plataformas cloud.
+
+** English ** :
+I am a software developer focused on building scalable, secure and high-impact solutions. Recently, I have been working on an Electronic Signature platform for Argentina, implementing identity validation, secure signing workflows, and compliant document handling.
+
+I enjoy combining backend engineering, frontend development, automation, and cloud tooling to create modern, reliable systems.
 
 ---
 
-### 🤖 AI, Automation & Data Science
-*Mi enfoque actual: Orquestación de LLMs, Automatización de flujos y Bases de datos vectoriales.*
+Mi enfoque está en el *Desarrollo de sistemas modernos, seguros y escalables*.
+
+• Firma Electrónica & Identidad Digital
+
+Validación documental, trazabilidad, auditoría, flujos de firma, seguridad de API.
+Herramientas comunes: Laravel, Sanctum, Horizon, Mailgun/SMTP, almacenamiento seguro, auditoría, colas y workers.
+
+• Backend & Microservicios
+
+Construcción de APIs, servicios desacoplados, autenticación, integración con servicios externos.
+
+• Frontend & UX
+
+Interfaces modernas orientadas a formularios, dashboards administrativos y aplicaciones de alto rendimiento.
+
+• Automatización & Orquestación
+
+Uso de n8n para flujos complejos, integración entre sistemas y optimización operativa.
 
 ![n8n](https://img.shields.io/badge/n8n-ff655a?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
